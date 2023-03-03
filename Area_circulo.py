@@ -7,3 +7,6 @@ from math import pi
 area_circulo = pi *radio**2
 #mostramos el area
 print("El área del circulo es :",area_circulo)
+#mostramos la respuesta con dos variables
+area_circ = round(area_circulo,2)
+print("El área del circulo es :",area_circ)
