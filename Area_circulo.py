@@ -6,4 +6,4 @@ from math import pi
 #Proceso para hallar el area del circulo
 area_circulo = pi *radio**2
 #mostramos el area
-print(area_circulo)
+print("El área del circulo es :",area_circulo)
