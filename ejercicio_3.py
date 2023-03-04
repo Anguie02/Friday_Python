@@ -15,7 +15,9 @@ print(tupla)
 #for a in elemento:
  #   lista.append(elemento)
  #   print(lista)
+ejemplo = str(10,15,27,100)
+list = []
+print(list.index(ejemplo))
 
-    
 
 
