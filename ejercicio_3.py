@@ -12,7 +12,9 @@ print(tupla)"""
 valores = input("Ingresa los valores separados: ")
 lista_valores = valores.split()
 print(lista_valores)
-
+#convertimos la lista en una tupla
+tupla = tuple(lista_valores)
+print(tupla)
     
 
 
